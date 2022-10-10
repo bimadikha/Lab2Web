@@ -49,7 +49,9 @@ Yang akan di tampilkan pada browser adalah internal
 ![step-3-1](https://imgur.com/P9vglBv.png)
 ![step-3-2](https://imgur.com/bNYKy5H.png)
 
-4. Untuk mengatur ukuran gambar, digunakan atribut `width` dan `height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 ```
-Menurut saya sesuai kebutuhan saja jika diperlukan 
+Pendeklarasian tersebut tidak dapat ditampilkan seperti pada screenshot dibawah ini
 ```
+![step-4-1](https://imgur.com/Jugu9Pc.png)
+![step-4-2](https://imgur.com/1Lbd2kL.png)
